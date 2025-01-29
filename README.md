@@ -13,7 +13,7 @@
 ## 📘 Subjects and Areas of Expertise  
 - **Embedded Systems**  
 - **Operating Systems**  
-- **Networking & Security** (Cisco Certified Courses)  
+- **Networking & Security**  
 - **Digital Signal Processing**  
 - **Computer Architecture & Organization**  
 - **Microprocessors**  
