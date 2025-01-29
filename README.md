@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm **Juniel Quines**  
+👨‍💻 **Computer Engineering Student** | Aspiring Tech Innovator  
 
-<!--
-**JunielQuines/JunielQuines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍🎓 About Me  
+- 📚 Currently studying at **Batangas State University**, taking courses in Computer Engineering.  
+- 🚀 Passionate about technology, solving problems, and creating efficient systems.  
+- 🎯 Focused on Embedded Systems, Networking, and Software Development.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📘 Subjects and Areas of Expertise  
+- **Embedded Systems**  
+- **Operating Systems**  
+- **Networking & Security** (Cisco Certified Courses)  
+- **Digital Signal Processing**  
+- **Computer Architecture & Organization**  
+- **Microprocessors**  
+
+---
+
+## 📂 Projects and Activities  
+- Worked on various academic projects involving **Logic Circuits**, **HDL**, and **Data Structures**.  
+- Actively participated in **seminars** and **field trips**, broadening my industry exposure.  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email:  
+- 🌐 LinkedIn: 
