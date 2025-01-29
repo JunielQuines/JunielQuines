@@ -27,5 +27,7 @@
 ---
 
 ## 📫 Connect With Me  
-- 📧 Email:  
-- 🌐 LinkedIn: 
+- 📧 Email: jquines67@gmail.com 
+- 🌐 LinkedIn: Juniel Quines
+- ⓕ  Facebook: Juniel Quines
+     
